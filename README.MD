@@ -30,6 +30,7 @@ Converts coordinates to real-world millimeter measurements
 Compares landmark positions across different boundary definitions
 
 **Technical Approach**
+
 Core Technologies: Python with medical imaging libraries (nibabel, scipy, numpy)
 Methods: Classical computer vision - no black-box AI, fully interpretable results
 Key Algorithms:
