@@ -1,5 +1,7 @@
 **Medical Bone Segmentation & Landmark Detection**
 Automated CT knee scan analysis for surgical planning and medical research
+
+
 **What This Does**
 Automatically identifies and analyzes femur and tibia bones from CT scans, creating precise bone boundaries and finding key anatomical landmarks that doctors need for surgeries and treatments. What takes hours manually now happens in minutes with consistent accuracy.
 
