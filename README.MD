@@ -1,9 +1,9 @@
-Medical Bone Segmentation & Landmark Detection
+**Medical Bone Segmentation & Landmark Detection**
 Automated CT knee scan analysis for surgical planning and medical research
-What This Does
+**What This Does**
 Automatically identifies and analyzes femur and tibia bones from CT scans, creating precise bone boundaries and finding key anatomical landmarks that doctors need for surgeries and treatments. What takes hours manually now happens in minutes with consistent accuracy.
 
-How It Works
+**How It Works**
 
 1. Bone Segmentation
    Separates femur and tibia from CT scans using bone density thresholds and anatomical knowledge.
@@ -26,7 +26,7 @@ Identifies medial and lateral tibia landmarks
 Converts coordinates to real-world millimeter measurements
 Compares landmark positions across different boundary definitions
 
-Technical Approach
+**Technical Approach**
 Core Technologies: Python with medical imaging libraries (nibabel, scipy, numpy)
 Methods: Classical computer vision - no black-box AI, fully interpretable results
 Key Algorithms:
